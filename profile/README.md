@@ -20,5 +20,10 @@ We touch the core.
         </td>
         <td> Rainbow Robotics Quadrupedal robot repository. </td>
     </tr>
+    <tr>
+        <td colspan="1" rowspan="2" align="center"> <a href="https://rainbowrobotics.github.io/rby1-dev/" target="_blank"> RBY1 </a> </td>
+        <td> <a href="https://github.com/RainbowRobotics/rby1-sdk" target="_blank"> rby1-sdk  </a> <br> Y1 sdk </td>
+    </tr>
+    <tr> <td> <a href="https://github.com/RainbowRobotics/rby1_ros2" target="_blank"> rby1_ros2  </a> <br> Y1 ros2 </td> </tr>
     </tbody>
 </table>

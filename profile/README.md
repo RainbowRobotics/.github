@@ -17,13 +17,51 @@ We touch the core.
         <th> Title </th> <th>Description</th> <th>Link</th> 
     </tr>
     <tr>
-        <td colspan="1" rowspan="2" align="center"> RBQ </td>
+        <td colspan="1" rowspan="9" align="center"> RBQ </td>
         <td> Rainbow Robotics Quadrupedal robot </td>
         <td> <a href="https://rainbowrobotics.github.io/RBQ/" target="_blank"> Homepage </a> </td>
     </tr>
     <tr> 
-        <td> Main repository </td>
+        <td> Main mono repository </td>
         <td> <a href="https://github.com/RainbowRobotics/RBQ" target="_blank"> RBQ </a> </td>
+    </tr>
+    <tr> 
+        <td> rbq_sdk <br> [ cpp, python, ros2 ] </td>
+        <td> <a href="https://github.com/RainbowRobotics/RBQ/tree/main/rbq_sdk" target="_blank"> rbq_sdk </a> </td>
+    </tr>
+    <tr> 
+        <td> RL (reinforcement-learning) environment based on ISAAC-GYM <br> rbq10 ready </td>
+        <td> <a href="https://github.com/RainbowRobotics/RBQ/tree/main/rbq_simulator/rbq_gym" target="_blank"> rbq_gym </a> </td>
+    </tr>
+    <tr> 
+        <td> RL (reinforcement-learning) environment based on ISAAC-LAB <br> rbq10 ready </td>
+        <td> <a href="https://github.com/RainbowRobotics/RBQ/tree/main/rbq_simulator/rbq_lab" target="_blank"> rbq_lab </a> </td>
+    </tr>
+    <tr> 
+        <td> RBQ GUI application </td>
+        <td> 
+            <a href="https://github.com/RainbowRobotics/RBQ/releases/latest/download/RBQGUI-x86_64.AppImage" target="_blank"> Linux </a> <br>
+            <a href="https://github.com/RainbowRobotics/RBQ/releases/latest/download/RBQGUI.apk" target="_blank"> Android </a> 
+        </td>
+    </tr>
+    <tr> 
+        <td> Resources <br> [ urdf, mjcf, meshes (.obj, .stl), pre-trained-locomotion-policy ] </td>
+        <td> 
+            <a href="https://github.com/RainbowRobotics/RBQ/tree/main/resources" target="_blank"> Resources </a>
+        </td>
+    </tr>
+    <tr> 
+        <td> CAD files <br> [ .stp, .dwg, .pdf ] </td>
+        <td> 
+            <a href="https://rainbowco-my.sharepoint.com/personal/rbq_support_rainbow-robotics_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Frbq%5Fsupport%5Frainbow%2Drobotics%5Fcom%2FDocuments%2FRBQ%20Series%2F3%5FCAD&viewid=b2eb7ba5%2D9c93%2D4480%2D9cbe%2D558e82b59b01&ga=1" target="_blank"> CAD files </a>
+        </td>
+    </tr>
+    <tr> 
+        <td> User-manual, Developer-manual <br> [ .pdf ] </td>
+        <td> 
+            <a href="https://rainbowco-my.sharepoint.com/personal/rbq_support_rainbow-robotics_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Frbq%5Fsupport%5Frainbow%2Drobotics%5Fcom%2FDocuments%2FRBQ%20Series%2F1%5FManual%5FPDF&viewid=b2eb7ba5%2D9c93%2D4480%2D9cbe%2D558e82b59b01&ga=1" target="_blank"> User-manual </a> <br>
+            <a href="https://rainbowco-my.sharepoint.com/personal/rbq_support_rainbow-robotics_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Frbq%5Fsupport%5Frainbow%2Drobotics%5Fcom%2FDocuments%2FRBQ%20Series%2F2%5FSoftware%5FPDF&viewid=b2eb7ba5%2D9c93%2D4480%2D9cbe%2D558e82b59b01&ga=1" target="_blank"> Developer-manual </a>
+        </td>
     </tr>
     </tbody>
     <tr>

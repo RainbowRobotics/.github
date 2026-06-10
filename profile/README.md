@@ -33,7 +33,7 @@ We touch the core.
     </tr>
     <tr> 
         <td> rby1-sdk </td>
-        <td> <a href="https://github.com/RainbowRobotics/rby1-sdk" target="_blank"> rby1_ros2 </a> </td>
+        <td> <a href="https://github.com/RainbowRobotics/rby1-sdk" target="_blank"> rby1-sdk </a> </td>
     </tr>
     <tr> 
         <td> rby1_ros2 </td>

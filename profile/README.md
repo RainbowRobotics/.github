@@ -74,8 +74,8 @@ We touch the core.
         <td> <a href="https://github.com/RainbowRobotics/rby1-sdk" target="_blank"> rby1-sdk </a> </td>
     </tr>
     <tr> 
-        <td> rby1_ros2 </td>
-        <td> <a href="https://github.com/RainbowRobotics/rby1_ros2" target="_blank"> rby1_ros2 </a> </td>
+        <td> rby1-ros2 </td>
+        <td> <a href="https://github.com/RainbowRobotics/rby1-ros2" target="_blank"> rby1-ros2 </a> </td>
     </tr>
     <tr> 
         <td> rby1-sim-isaac </td>

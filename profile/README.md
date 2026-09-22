@@ -65,7 +65,7 @@ We touch the core.
     </tr>
     </tbody>
     <tr>
-        <td colspan="1" rowspan="4" align="center"> RBY1 </td>
+        <td colspan="1" rowspan="7" align="center"> RBY1 </td>
         <td> Rainbow Robotics Semi-humanoid robot </td>
         <td> <a href="https://rainbowrobotics.github.io/rby1-dev/" target="_blank"> Homepage </a> </td>
     </tr>
@@ -80,6 +80,18 @@ We touch the core.
     <tr> 
         <td> rby1-sim-isaac </td>
         <td> <a href="https://github.com/RainbowRobotics/rby1-sim-isaac" target="_blank"> rby1-sim-isaac </a> </td>
+    </tr>
+    <tr> 
+        <td> rby1-lerobot </td>
+        <td> <a href="https://github.com/RainbowRobotics/rby1-lerobot" target="_blank"> rby1-lerobot </a> </td>
+    </tr>
+    <tr> 
+        <td> rby1-gr00t </td>
+        <td> <a href="https://github.com/RainbowRobotics/rby1-gr00t" target="_blank"> rby1-gr00t </a> </td>
+    </tr>
+    <tr> 
+        <td> rby1-openpi </td>
+        <td> <a href="https://github.com/RainbowRobotics/rby1-openpi" target="_blank"> rby1-openpi </a> </td>
     </tr>
     </tbody>
 </table>
